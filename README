@@ -1,0 +1,26 @@
+# [BASELINE CODE]
+- https://colab.research.google.com/drive/1nC_YMtHQn1GYMzBUGRS3esftKS8YKAZn?hl=ko#scrollTo=IeOssKgYEQMS
+
+* 2024.05.20
+- 프로젝트 생성 및 venv 가상 환경 설정 
+- train 데이터 다운 및 초기 설정 완료
+- 필요한 컴포넌트는 baseline code에서 가져올 것
+
+* 2024.05.29
+- plt.show() 로 출력 확인
+- HEADER와 main을 분리하려 하였으나 애매함
+- pdf 파일 볼 수 있게 정도
+- 일단 low level 부터
+- train 데이터 학습시키고, new data 유사도 판단해서 분류해야함
+- 그 과정에서 각 feature의 조합을 3개 만들어보자
+
+* 2024.06.03
+- .py 파일 구조 확립
+- 서류들 정독, 코드 이해 노력
+- c1 = low-level / c2 = high-level
+- t1 = classify  / t2 = retrieval
+
+* 2024.06.11
+- 달리자 ...
+
+
